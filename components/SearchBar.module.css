@@ -1,9 +1,10 @@
 /* components/SearchBar.module.css */
 .searchBar {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 10px;
   margin-bottom: 20px;
+  width: min-content;
 }
 
 .searchBar input {

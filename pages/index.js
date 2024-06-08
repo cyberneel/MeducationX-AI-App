@@ -1,6 +1,9 @@
 import { useState } from 'react';
 import SearchBar from '../components/SearchBar';
 import data from '../public/data.json';
+import Head from 'next/head';
+import styles from './index.module.css';
+import Layout from '../components/Layout';
 
 const Home = () => {
   const [results, setResults] = useState([]);
@@ -49,14 +52,17 @@ const Home = () => {
   };
 
   return (
-    <div>
-      <h1>Search JSON Database</h1>
+    <div style={{textAlign: 'center'}}>
+      <Head>
+        <title>MedX Plus</title>
+      </Head>
+      <h1>Search MedX Database</h1>
       <SearchBar onSearch={handleSearch} />
       <div>
         {results.length > 0 ? (
           <ul>
             {results.map(item => (
-              <li key={item.id}>
+              <li key={item.id} className={styles.resultListItem}>
                 {highlightMatch(item.name, queryHome)} - {highlightMatch(item.email, queryHome)}
               </li>
             ))}
