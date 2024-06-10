@@ -1,0 +1,387 @@
+[
+  {
+    "name": "Onychomycosis",
+    "symptoms": ["Thickened, yellowed nails", "Brittle or crumbly nails", "White or yellow spots on the nails"],
+    "cause": "Fungal infection, commonly by dermatophytes like Trichophyton rubrum or T. mentagrophytes",
+    "prevention": "Avoiding damp environments, wearing breathable footwear, keeping feet clean and dry",
+    "homeRemedy": "Topical antifungal creams (e.g., terbinafine), regular toenail trimming, maintaining good foot hygiene",
+    "pharmaceutical": "Oral antifungal medications (e.g., fluconazole), prescription-strength topical treatments"
+  },
+  {
+    "name": "Common Cold",
+    "symptoms": ["Runny or stuffy nose", "Sneezing", "Sore throat", "Cough", "Mild fever"],
+    "cause": "Caused by various respiratory viruses, primarily rhinoviruses",
+    "prevention": "Frequent handwashing, avoiding close contact with sick individuals, using tissues for coughs and sneezes",
+    "homeRemedy": "Rest, hydration, over-the-counter remedies for symptom relief (e.g., decongestants, lozenges)",
+    "pharmaceutical": "Antiviral medications (in specific cases), symptomatic relief medications"
+  },
+  {
+    "name": "Influenza (flu)",
+    "symptoms": [
+      "Fever",
+      "Cough",
+      "Sore throat",
+      "Runny or stuffy nose",
+      "Muscle or body aches",
+      "Headaches",
+      "Fatigue (tiredness)"
+    ],
+    "cause": "Influenza is caused by the spread of the virus through mucus droplets ejected while coughing/sneezing. The Influenza variants that affect humans are Influenza A and Influenza B; Influenza can spread within multiple species, while Influenza B spreads only human to human.",
+    "prevention": "You can prevent Influenza by receiving the annual flu vaccination, keeping good hand hygiene, and covering coughs and sneezes. These steps help because cleaning yourself allows for the disposal of contaminated droplets of virus on your skin. Making sure you do not touch your face makes certain that the contamination on your hands does not reach an area where the virus can enter your body.",
+    "homeRemedy": "You can recover at home by taking a lot of rest, fluids, and healthy foods. You may also take antiviral medications (prescription if started early), and over-the-counter symptom relief if the symptoms begin to increase.",
+    "pharmaceutical": "If the symptoms start to increase, you will need Antiviral medications (prescription), and symptomatic relief medications."
+  },
+  {
+    "name": "Tuberculosis (TB)",
+    "symptoms": [
+      "Low fever",
+      "Tiredness",
+      "Cough",
+      "Coughing up blood or mucus",
+      "Chest pain",
+      "Pain with breathing or coughing",
+      "Fever",
+      "Chills",
+      "Night sweats",
+      "Weight loss",
+      "Lack of appetite",
+      "Tiredness"
+    ],
+    "cause": "Mycobacterium tuberculosis, primarily spread through airborne respiratory droplets, caused by sneezing, coughing, or the spread of TB through contact with droplets. Every year, 10 million people fall ill with tuberculosis (TB), even if it is a preventable disease.",
+    "prevention": "To prevent tuberculosis, you can follow the same protocols as being infected with the flu. Ensure to wash your hands thoroughly, avoid touching your face before washing your hands, keep a distance from people infected with TB, and wear a mask if you yourself become infected with TB. You take a TB vaccination (BCG) to help fight tuberculosis. If you are infected by tuberculosis, make sure to consult a doctor.",
+    "homeRemedy": "At home, make sure you take your antibiotics, and take rest. Do not tire yourself out, as it will make the condition worse.",
+    "pharmaceutical": "Antibiotics (e.g., isoniazid, rifampin, ethambutol, pyrazinamide)"
+  },
+  {
+    "name": "Malaria",
+    "symptoms": [
+      "Fever",
+      "Chills",
+      "Discomfort",
+      "Headache",
+      "Nausea",
+      "Diarrhea",
+      "Abdominal pain",
+      "Muscle or Joint pain",
+      "Fatigue",
+      "Difficulty Breathing",
+      "Rapid Heart Rate",
+      "Seizures"
+    ],
+    "cause": "Malaria is a disease that is caused by a single-celled parasite of the genus plasmodium and is spread mainly by mosquito bites of an infected. Malaria is also transferred from a mother to an unborn child, through blood transfusions, and by sharing needles. The parasite grows and multiplies first in the liver, then within the red blood cells. Once they are in the blood cells, the cells are burst open from the inside, releasing daughter parasites to continue the spread of the disease throughout the body.",
+    "prevention": "Malaria can be prevented by avoiding mosquitos (with mosquito nets, covering windows/doors, applying mosquito repellent, ect), and taking antimalarial medications and other medications before, during, and after someone’s stay in a malaria prone area. This can reduce the chance of contracting malaria, but can’t be used for treatment if a person gets malaria, due to more optimal treatment methods done by health care professionals.",
+    "homeRemedy": "For home remedies, people with malaria should be taking rest, making sure they are hydrated, and taking any type of antimalarial medications. As well, quinine-containing foods can help in treating malaria, which can include grapefruit, lemons, and oranges. If you have malaria, talk to a healthcare professional as soon as possible for more specialized and targeted treatment.",
+    "pharmaceutical": "Medicines that can be used to treat malaria are chloroquine, doxycycline, mefloquine, primaquine, tafenoquine, and artemisinin-based combination therapies."
+  },
+  {
+    "name": "Pneumonia",
+    "symptoms": [
+      "Cough",
+      "Fever",
+      "Shortness of breath",
+      "Chest pain",
+      "Fatigue",
+      "Nausea",
+      "Vomiting",
+      "Muscle aches",
+      "Confusion",
+      "Blue lips or nails"
+    ],
+    "cause": "Pneumonia is an infection that inflames air sacs in one or both lungs, which may fill with fluid or pus, causing cough with phlegm or pus, fever, chills, and difficulty breathing. Pneumonia can be caused by bacteria, viruses, or fungi. Some other diseases can also cause pneumonia like COVID-19",
+    "prevention": "Getting vaccinated against diseases like influenza and Streptococcus pneumoniae, avoiding smoking and exposure to smoke, maintaining overall health, including regular exercise and a balanced diet, and practicing good respiratory etiquette, such as covering mouth and nose when coughing or sneezing.",
+    "homeRemedy": "While seeking medical attention is crucial for pneumonia treatment, certain home remedies can help alleviate symptoms. Resting, staying hydrated by drinking plenty of fluids, using a humidifier to moisten the air, avoiding smoking and exposure to smoke, and taking over-the-counter pain relievers and fever reducers can provide relief. However, these remedies should complement medical treatment, not replace it.",
+    "pharmaceutical": "Antibiotics are typically prescribed to treat bacterial pneumonia, while antiviral medications may be used for viral pneumonia. Common antibiotics include amoxicillin, azithromycin, clarithromycin, and erythromycin. In severe cases or when the pneumonia is caused by a virus, antiviral drugs like oseltamivir may be prescribed. It's essential to follow the healthcare provider's instructions regarding medication use and complete the full course of antibiotics."
+  },
+  {
+    "name": "Measles",
+    "symptoms": [
+      "Fever",
+      "Cough",
+      "Runny nose",
+      "Sore throat",
+      "Conjunctivitis (red eyes)",
+      "Red Spots",
+      "Rash"
+    ],
+    "cause": "Measles is a highly contagious viral infection caused by the measles virus (MeV). It belongs to the genus Morbillivirus in the family Paramyxoviridae. Measles spreads through respiratory droplets produced when an infected person coughs or sneezes. The virus can survive in the air and on surfaces for several hours, making it highly transmissible.",
+    "prevention": "The most effective way to prevent measles is through vaccination with the measles, mumps, and rubella (MMR) vaccine. This vaccine provides long-lasting immunity against measles. It is important for individuals to ensure they are up-to-date on their MMR vaccinations, especially before traveling to areas where measles is endemic. Additionally, practicing good hand hygiene and avoiding close contact with infected individuals can help reduce the risk of contracting measles.",
+    "homeRemedy": "Patients can alleviate symptoms by getting plenty of rest, staying hydrated, and taking over-the-counter medications to reduce fever and relieve discomfort. It is important to avoid aspirin in children and teenagers with measles due to the risk of Reye's syndrome. If you suspect you or your child has measles, it is crucial to consult a healthcare professional for proper diagnosis and treatment.",
+    "pharmaceutical": "There is no specific antiviral treatment for measles. Healthcare providers may recommend vitamin A supplements for children with measles, as vitamin A deficiency can increase the severity of the disease and the risk of complications. In some cases, antibiotics may be prescribed if a bacterial infection such as pneumonia develops as a complication of measles. However, the primary focus of treatment is on managing symptoms and providing supportive care."
+  },
+  {
+    "name": "Strep Throat",
+    "symptoms": [
+      "Sore throat",
+      "Painful swallowing",
+      "Fever",
+      "Swollen lymph nodes",
+      "Tonsillar exudate",
+      "Headache",
+      "Nausea",
+      "Vomiting",
+      "Abdominal pain",
+      "Rash (scarlet fever variant)"
+    ],
+    "cause": "Strep throat is a bacterial infection caused by group A Streptococcus bacteria. It is highly contagious and spreads through respiratory droplets when an infected person coughs or sneezes. The bacteria can also live on surfaces and spread through contact with contaminated objects. Strep throat can affect people of all ages but is most common in children and adolescents.",
+    "prevention": "Washing hands frequently, covering the mouth and nose when sneezing or coughing, avoiding close contact with infected individuals, and disinfecting commonly touched surfaces. It's also important to encourage individuals with strep throat to stay home from school or work until they are no longer contagious, typically 24 hours after starting antibiotics.",
+    "homeRemedy": "Home remedies for strep throat can help alleviate symptoms and promote recovery. Getting plenty of rest allows the body to focus its energy on fighting the infection. Staying hydrated by drinking fluids like water, warm tea with honey, or broth-based soups can soothe the throat and prevent dehydration. Gargling with warm salt water can help reduce throat inflammation and discomfort. Using throat lozenges or sprays containing numbing agents can provide temporary relief from pain and irritation. Additionally, using a humidifier to add moisture to the air can ease throat dryness and congestion.",
+    "pharmaceutical": "Treatment for strep throat typically involves antibiotics such as penicillin or amoxicillin to kill the bacteria and reduce the duration and severity of symptoms. It's important to complete the full course of antibiotics as prescribed by a healthcare professional to prevent complications and the development of antibiotic-resistant bacteria. In cases of penicillin allergy, alternative antibiotics such as erythromycin or azithromycin may be prescribed. Over-the-counter pain relievers like ibuprofen or acetaminophen can also help alleviate fever and discomfort."
+  },
+  {
+    "name": "Acute Pharyngitis",
+    "symptoms": ["Sore throat", "Pain when swallowing", "Pain when speaking"],
+    "cause": "Acute Pharyngitis is an infection caused by viruses or bacteria through direct, person to person, contact of respiratory droplets, saliva, or nasal secretions. This causes the infection to be highly concentrated in areas with children, such as schools and daycare. As well, the infection can be caused by improper food handling, resulting in foodborne outbreaks in various different restaurants and stores.",
+    "prevention": "Acute Pharyngitis can be prevented by following safe hygiene protocols. These can include washing your hands, wearing masks around people exhibiting symptoms of being sick, and avoiding sharing personal items, such as drinking glasses and utensils. As well, usage of a humidifier can help, especially during dry or cold weather, in order to add moisture to air within your home. Often, dry air can irritate the throat making them more prone to infections.",
+    "homeRemedy": "Acute Pharyngitis can be remedied by usage of honey in any form, being a useful cough and can clears a person’s throat. As well, patients can gargle with warm salt water helps soothe a sore throat, while providing a way to kill bacteria and loosen mucus. Finally, staying hydrated helps the throat stay moist and prevents dehydration.",
+    "pharmaceutical": "Acute Pharyngitis can be treated through usage of cold and fever medications that are accessible over the counter, such as Acetaminophen (Tylenol), Ibuprofen (Advil), or Naproxen (Aleve). As well, there are antibiotics that are accessible with a prescription like penicillin and amoxicillin will be more effective if the over the counter medicines are found to be ineffective."
+  },  
+  {
+    "name": "Urinary Tract Infection",
+    "symptoms": [
+      "Pain or burning sensation during urination",
+      "Frequent urge to urinate",
+      "Passing frequent, small amounts of urine",
+      "Cloudy or strong-smelling urine",
+      "Blood in urine (hematuria)",
+      "Pelvic pain (in women)",
+      "Rectal pain (in men)",
+      "Fatigue",
+      "Fever",
+      "Chills"
+    ],
+    "cause": "Urinary tract infections (UTIs) are caused by bacteria, primarily Escherichia coli (E. coli) that enter the urinary tract through the urethra and begin to multiply in the bladder. UTIs can occur in any part of the urinary tract, including the bladder, urethra, ureters, and kidneys.",
+    "prevention": "Preventing UTIs involves various measures such as staying hydrated, urinating frequently, wiping from front to back after using the bathroom (especially for women), practicing good hygiene, avoiding irritating feminine products, and wearing loose-fitting clothing. Additionally, cranberry products or supplements may help prevent UTIs by preventing bacteria from adhering to the walls of the urinary tract.",
+    "homeRemedy": "Home remedies for UTIs include increasing water intake to help flush out bacteria, applying a heating pad to the abdomen to alleviate discomfort, consuming probiotics to promote healthy bacterial balance in the urinary tract, and drinking unsweetened cranberry juice or taking cranberry supplements to prevent bacterial adherence to the urinary tract walls. However, if symptoms persist or worsen, it's important to seek medical attention for proper diagnosis and treatment.",
+    "pharmaceutical": "Pharmaceutical treatments for UTIs typically involve antibiotics to target and eliminate the bacteria causing the infection. Common antibiotics used to treat UTIs include trimethoprim/sulfamethoxazole (TMP/SMX), nitrofurantoin, ciprofloxacin, levofloxacin, and amoxicillin/clavulanic acid. It's essential to complete the full course of antibiotics as prescribed by a healthcare professional to ensure the infection is completely eradicated and to prevent recurrence."
+  },
+  {
+    "name": "Mumps",
+    "symptoms": [
+      "Swollen and tender salivary glands (parotitis)",
+      "Fever",
+      "Headache",
+      "Muscle aches",
+      "Weakness",
+      "Loss of appetite"
+    ],
+    "cause": "Mumps is caused by the mumps virus, which belongs to the paramyxovirus family. It is highly contagious and spreads through respiratory droplets or direct contact with an infected person's saliva. The virus primarily affects the salivary glands, causing them to swell and become painful. In rare cases, mumps can lead to complications such as meningitis, encephalitis, orchitis (inflammation of the testicles), oophoritis (inflammation of the ovaries), pancreatitis, and deafness.",
+    "prevention": "The most effective way to prevent mumps is through vaccination with the MMR (measles, mumps, and rubella) vaccine. This vaccine provides immunity against mumps and is typically administered in childhood with a booster shot recommended later in life. Vaccination not only protects individuals from mumps but also helps prevent outbreaks within communities. Avoiding close contact with infected individuals and practicing good hygiene, such as frequent handwashing and covering coughs and sneezes, can also help prevent the spread of the virus.",
+    "homeRemedy": "Home remedies for mumps focus on relieving symptoms and promoting comfort. This includes getting plenty of rest, staying hydrated by drinking fluids such as water or clear broth, applying warm or cold packs to swollen glands for pain relief, and eating soft foods that are easy to chew. Over-the-counter pain relievers like acetaminophen or ibuprofen can help alleviate fever and discomfort. It's important to avoid acidic foods and drinks that may stimulate saliva production and worsen pain in the salivary glands. It's essential to consult a healthcare professional, especially for severe cases or complications.",
+    "pharmaceutical": "Treatment primarily involves managing symptoms and providing supportive care. In some cases, antipyretics may be recommended to reduce fever and pain relievers to alleviate discomfort. Rest and hydration are key components of recovery. Complications such as meningitis or orchitis may require additional medical intervention. It's important for individuals diagnosed with mumps to isolate themselves from others, especially unvaccinated individuals, to prevent further spread of the virus."
+  },
+  {
+    "name": "Rubella",
+    "symptoms": [
+      "Mild fever",
+      "Rash on face",
+      "Swollen and tender lymph nodes",
+      "Joint pain",
+      "Red eyes (conjunctivitis)",
+      "Headache"
+    ],
+    "cause": "Rubella is caused by the rubella virus, a member of the Togaviridae family. It is highly contagious and spreads through respiratory droplets from coughs and sneezes of an infected person. Rubella can also spread from a pregnant woman to her unborn child, potentially leading to congenital rubella syndrome (CRS), which can cause serious birth defects and developmental issues in the infant.",
+    "prevention": "The most effective way to prevent rubella is through vaccination with the MMR (measles, mumps, and rubella) vaccine. This vaccine provides immunity against rubella and is typically administered in childhood, with a booster shot recommended later in life. Vaccination not only protects individuals from rubella but also helps prevent outbreaks and protects vulnerable populations, including pregnant women and their unborn children.",
+    "homeRemedy": "Home remedies for rubella primarily focus on alleviating symptoms and supporting the body's immune response. It is essential for individuals with rubella to get plenty of rest to help the body fight the virus. Staying hydrated by drinking water and clear fluids can help prevent dehydration, especially if fever is present. Over-the-counter pain relievers such as acetaminophen or ibuprofen can help reduce fever, relieve pain, and alleviate discomfort. Cool compresses or baths may also provide relief from itching associated with the rash. It's important to avoid contact with pregnant women to prevent transmission of the virus to the fetus.",
+    "pharmaceutical": "There are no specific antiviral medications to treat rubella. Treatment primarily involves managing symptoms and providing supportive care. Pain relievers such as acetaminophen or ibuprofen can help reduce fever and alleviate discomfort. Antihistamines may be used to relieve itching associated with the rash. It's important for individuals diagnosed with rubella to avoid close contact with others, especially pregnant women, to prevent the spread of the virus. Pregnant women who are not immune to rubella should avoid exposure to the virus, as it can cause serious complications for the unborn baby."
+  },
+  {
+    "name": "Polio",
+    "symptoms": [
+      "Fever",
+      "Sore throat",
+      "Fatigue",
+      "Headache",
+      "Vomiting",
+      "Stiffness in the neck",
+      "Pain in the limbs",
+      "Muscle weakness",
+      "Paralysis"
+    ],
+    "cause": "Polio, short for poliomyelitis, is caused by the poliovirus, which is highly contagious. The virus is transmitted through contact with infected feces or oral secretions. It primarily affects the nervous system, leading to paralysis in some cases. Polio Virus invades the nervous system and can cause total paralysis in a matter of hours. In rare instances, the live attenuated oral polio vaccine (OPV) used for immunization can, in very rare cases, cause vaccine-derived poliovirus (VDPV) which can lead to outbreaks in under-immunized populations.",
+    "prevention": "Polio can be prevented through vaccination. The polio vaccine, given multiple times, provides immunity against the virus and prevents its spread. Routine immunization and mass vaccination campaigns have been effective in reducing the incidence of polio worldwide. Additionally, maintaining good hygiene practices, such as handwashing and proper sanitation, can help prevent the spread of the virus.",
+    "homeRemedy": "While there is no specific home remedy for polio, individuals with polio should focus on rest and maintaining a healthy lifestyle. Adequate nutrition, physical therapy, and supportive care can help manage symptoms and improve overall well-being. It's essential for individuals with polio to seek medical attention for proper diagnosis and treatment.",
+    "pharmaceutical": "There is no cure for polio, but treatment aims to alleviate symptoms and prevent complications. Supportive therapies such as pain management, physical therapy, and assistive devices to aid mobility are commonly employed. In some cases, antiviral drugs may be used to reduce the severity of symptoms. Vaccination remains the most effective way to prevent polio. Some antiviral medications that may be used include ribavirin and interferon-alpha. However, their efficacy in treating polio is limited, and they are not routinely used."
+  },
+  {
+    "name": "Hepatitis B",
+    "symptoms": [
+      "Fatigue",
+      "Jaundice",
+      "Abdominal pain",
+      "Loss of appetite",
+      "Nausea",
+      "Vomiting",
+      "Joint pain",
+      "Dark urine",
+      "Clay-colored bowel movements"
+    ],
+    "cause": "Hepatitis B is caused by the hepatitis B virus (HBV), which is transmitted through contact with blood or body fluids of an infected person. It can also be transmitted from an infected mother to her newborn during childbirth. HBV can cause acute and chronic liver infections and may lead to serious complications such as cirrhosis (scarring of the liver) and liver cancer.",
+    "prevention": "The most effective way to prevent hepatitis B is through vaccination. The hepatitis B vaccine provides immunity against the virus and is typically administered as a series of shots, with the first dose given at birth followed by additional doses in infancy and childhood. In addition to vaccination, practicing safe sex, avoiding sharing needles or personal hygiene items, and receiving medical care from properly screened healthcare providers can help prevent HBV transmission.",
+    "homeRemedy": "While there is no specific home remedy for hepatitis B, individuals with the infection can take steps to support liver health and overall well-being. This includes getting plenty of rest, eating a healthy diet rich in fruits, vegetables, and whole grains, avoiding alcohol and substances that can harm the liver, and staying hydrated by drinking plenty of fluids. It's important for individuals with hepatitis B to follow their healthcare provider's recommendations for monitoring liver function and managing the infection.",
+    "pharmaceutical": "Treatment for hepatitis B may include antiviral medications to suppress the replication of the virus and reduce the risk of liver damage. Commonly prescribed antiviral drugs for hepatitis B include interferon-alpha and nucleoside/nucleotide analogs such as lamivudine, entecavir, tenofovir, and telbivudine. In some cases, a combination of antiviral drugs may be used to achieve better outcomes. It's essential for individuals with hepatitis B to work closely with their healthcare provider to develop a treatment plan tailored to their specific needs and monitor for potential side effects."
+  },
+  {
+    "name": "Hepatitis C",
+    "symptoms": [
+      "Fatigue",
+      "Jaundice",
+      "Abdominal pain",
+      "Loss of appetite",
+      "Nausea",
+      "Vomiting",
+      "Joint pain",
+      "Dark urine",
+      "Clay-colored bowel movements"
+    ],
+    "cause": "Hepatitis C is caused by the hepatitis C virus (HCV), which is transmitted through contact with blood from an infected person. It can also be transmitted through sharing needles or other equipment used to inject drugs, needlestick injuries in healthcare settings, and from an infected mother to her newborn during childbirth. HCV can cause both acute and chronic liver infections and may lead to serious complications such as cirrhosis (scarring of the liver) and liver cancer.",
+    "prevention": "Preventing hepatitis C involves avoiding behaviors and situations that can lead to exposure to the virus. This includes practicing safe sex, avoiding sharing needles or other equipment used to inject drugs, ensuring healthcare settings follow proper infection control practices, and receiving medical care from properly screened healthcare providers. There is currently no vaccine available to prevent hepatitis C, so prevention efforts focus on reducing the risk of exposure to the virus.",
+    "homeRemedy": "While there is no specific home remedy for hepatitis C, individuals with the infection can take steps to support liver health and overall well-being. This includes getting plenty of rest, eating a healthy diet rich in fruits, vegetables, and whole grains, avoiding alcohol and substances that can harm the liver, and staying hydrated by drinking plenty of fluids. It's important for individuals with hepatitis C to follow their healthcare provider's recommendations for monitoring liver function and managing the infection.",
+    "pharmaceutical": "Treatment for hepatitis C typically involves antiviral medications to suppress the replication of the virus and reduce the risk of liver damage. The primary goal of treatment is to achieve sustained virologic response (SVR), which means the virus is no longer detectable in the blood several months after completing treatment. Direct-acting antiviral drugs (DAAs) are the standard of care for hepatitis C and have high cure rates with minimal side effects. Commonly used DAAs include sofosbuvir, ledipasvir, daclatasvir, glecaprevir, pibrentasvir, and voxilaprevir. It's essential for individuals with hepatitis C to work closely with their healthcare provider to develop a treatment plan tailored to their specific genotype and medical history."
+  },
+  {
+    "name": "Helicobacter pylori Infections",
+    "symptoms": ["Dull or burning abdominal pain", "Abdominal discomfort", "Nausea", "Bloating", "Belching", "Vomiting", "Loss of appetite", "Sudden weight loss", "Frequent burping", "Bloody or black stools", "Fatigue", "Heartburn"],
+    "cause": "Helicobacter pylori (H. pylori) is a type of bacteria that infects the stomach lining. It is usually contracted through contaminated food, water, or utensils. H. pylori can weaken the protective mucous coating of the stomach and duodenum, allowing acid to get through to the sensitive lining beneath. Both the acid and the bacteria irritate the lining and may cause a sore, or ulcer.",
+    "prevention": "Preventing H. pylori infections involves practicing good hygiene such as washing hands thoroughly with soap and water before eating and after using the bathroom. Avoiding food and water that may be contaminated can also help reduce the risk of infection.",
+    "homeRemedy": "While there are no home remedies to eradicate H. pylori, individuals with symptoms can take steps to ease discomfort. Consuming probiotics like yogurt, eating a balanced diet rich in fruits, vegetables, and whole grains, and avoiding irritants like caffeine and spicy foods may help alleviate symptoms. However, it's essential to consult a healthcare professional for proper diagnosis and treatment.",
+    "pharmaceutical": "Treatment for H. pylori infections typically involves a combination of antibiotics such as amoxicillin, clarithromycin, metronidazole, and tetracycline, along with proton pump inhibitors (PPIs) such as omeprazole, lansoprazole, or esomeprazole to reduce stomach acid levels and allow the ulcers to heal."
+  },
+  {
+    "name": "Leukemia",
+    "symptoms": ["Fatigue", "Weakness", "Fever", "Chills", "Weight loss", "Bone pain", "Joint pain", "Swollen lymph nodes", "Enlarged liver or spleen", "Frequent infections", "Easy bleeding or bruising", "Petechiae (tiny red spots under the skin)"],
+    "cause": "Leukemia is a type of cancer that affects the blood and bone marrow. It usually begins when healthy blood cells mutate and grow uncontrollably. The exact cause of these mutations is often unclear, but factors such as genetic predisposition, exposure to radiation or certain chemicals, and viruses like the human T-cell leukemia virus (HTLV-1) may play a role.",
+    "prevention": "Preventing leukemia entirely may not be possible in many cases due to its complex nature and uncertain causes. However, avoiding exposure to known carcinogens like tobacco smoke, certain chemicals, and ionizing radiation may reduce the risk. Additionally, maintaining a healthy lifestyle with a balanced diet, regular exercise, and routine medical check-ups may contribute to overall well-being.",
+    "homeRemedy": "While there are no specific home remedies to cure leukemia, patients can focus on maintaining their overall health and well-being. This includes getting adequate rest, following a nutritious diet rich in fruits, vegetables, and whole grains, staying hydrated, and avoiding exposure to infections by practicing good hygiene. It's essential for individuals diagnosed with leukemia to adhere to their prescribed treatment plan and follow-up care under the guidance of healthcare professionals.",
+    "pharmaceutical": "Treatment for leukemia typically involves chemotherapy, targeted therapy, radiation therapy, stem cell transplant, or a combination of these approaches. Specific medications used may include methotrexate, vincristine, prednisone, cytarabine, imatinib, dasatinib, nilotinib, and other targeted therapies or immunotherapies depending on the type and subtype of leukemia."
+  },
+  {
+    "name": "Ringworm",
+    "symptoms": ["Red, scaly, itchy patches on the skin", "Circular shaped rash", "Hair loss in the affected area", "Itching", "Blisters", "Pus-filled sores"],
+    "cause": "Ringworm is a fungal infection caused by various types of fungi known as dermatophytes. These fungi thrive in warm, moist environments and can be transmitted through direct contact with an infected person, animal, or object. Ringworm can affect the skin, scalp, groin area, feet (athlete's foot), or nails.",
+    "prevention": "Avoiding sharing personal items such as clothing, towels, and combs with infected individuals, keeping the skin clean and dry, wearing sandals or shoes in locker rooms and public showers, and treating pets for ringworm if they show symptoms.",
+    "homeRemedy": "Keep the affected area clean and dry, applying over-the-counter antifungal creams or ointments such as clotrimazole, miconazole, or terbinafine, keeping the affected area covered with breathable fabric, and avoiding tight-fitting clothing that can irritate the skin. Some natural remedies like tea tree oil, apple cider vinegar, and garlic have also been used to treat ringworm, although their effectiveness may vary.",
+    "pharmaceutical": "Antifungal medications are commonly used to treat ringworm. These include topical antifungal creams, lotions, or powders containing clotrimazole, miconazole, terbinafine, or ketoconazole. In severe cases or infections that do not respond to topical treatments, oral antifungal medications such as fluconazole, itraconazole, or griseofulvin may be prescribed by a healthcare professional."
+  },
+  {
+    "name": "Athlete's Foot (Fungal Infection)",
+    "symptoms": ["Itching", "Burning", "Cracked skin on feet", "Blisters", "Dry/scaly skin", "Reddish, purplish, or grayish skin color"],
+    "cause": "Athlete’s Foot is caused by a fungal infection, usually Trichophyton rubum, however it can be caused by multiple fungi such as T. interdigitale, and Epidermophyton floccosum. The fungi thrive in warm and moist environments, leading to uncontrolled growth and spreading among those who come in contact with the infected area.",
+    "treatment": "To treat Athlete’s Foot, it is recommended to use topical antifungal creams (e.g., Tolnaftate, Clotrimazole, Terbinafine, Naftifine, etc.) and oral antifungal medications (e.g., Itraconazole, Terbinafine, Fluconazole, etc.) to stop the growth of the fungi.",
+    "homeRemedy": "For home remedies or easily accessible remedies, it is recommended to keep feet clean and dry or to use over-the-counter antifungal creams. Oils such as tea tree oil and neem oil are great for combating Athlete’s Foot. Hydrogen Peroxide and rubbing alcohol are also effective for killing surface-level fungi and bacteria.",
+    "pharmaceutical": "Oral antifungal medications such as Itraconazole or Terbinafine are common pharmaceutical treatments for Athlete’s Foot. Other common pharmaceutical remedies include Itraconazole, Terbinafine, and Fluconazole."
+  },
+  {
+    "name": "Chlamydia (Bacterial STI)",
+    "symptoms": ["Painful urination", "Abdominal pain", "Abnormal genital discharge", "Pus from the penis", "Pain during sex", "Lower belly pain"],
+    "cause": "Chlamydia is caused by unprotected sex (without the use of condoms), vaginal, and oral sex, or through sex with a person already infected with chlamydia.",
+    "treatment": "The most common treatments for chlamydia are Azithromycin or Doxycycline (prescribed by a healthcare professional). However, other treatments such as amoxicillin are used for those allergic to the aforementioned antibiotics.",
+    "prevention": "To prevent chlamydia, safe sexual practices are encouraged. This can be achieved by condom and/or dam use.",
+    "homeRemedy": "For home remedies for chlamydia, it is best to abstain from sexual activity and take prescribed antibiotics.",
+    "pharmaceutical": "Chlamydia can be treated through the use of prescription antibiotics that target the specific bacteria. Common pharmaceutical medicines include Azithromycin and Doxycycline."
+  },
+  {
+    "name": "Gonorrhea (Bacterial STI)",
+    "symptoms": ["Painful urination", "Abnormal genital discharge", "Pelvic pain", "Heavier periods"],
+    "cause": "The primary cause of Gonorrhea is the Neisseria gonorrhoeae bacteria. This bacteria infects the mucous membrane of the reproductive system due to unsafe sex.",
+    "treatment": "Gonorrhea can be treated by using one dose of 500 mg of intramuscular ceftriaxone plus azithromycin 1g (prescribed by a healthcare professional).",
+    "prevention": "To prevent gonorrhea, like other STIs, safe sexual practices and condom use are encouraged.",
+    "homeRemedy": "For home remedies for gonorrhea, it is best to abstain from sexual activity and take prescribed antibiotics.",
+    "pharmaceutical": "Use of prescription antibiotics (e.g., Ceftriaxone, Azithromycin) is optimal for treating Gonorrhea."
+  },
+  {
+    "name": "Leprosy (Hansen's Disease)",
+    "symptoms": ["Skin lesions", "Numbness or weakness", "Eye problems", "Discolored skin", "Loss of eyebrows or eyelashes"],
+    "cause": "Leprosy is caused by an infection from the Mycobacterium leprae bacteria.",
+    "treatment": "There are multiple treatments for Leprosy, often in the form of multidrug therapy (MDT) that involves the use of antibiotics such as Rifampicin, Dapsone, and Clofazimine.",
+    "prevention": "Leprosy can be prevented through early diagnosis and treatment of those who are infected.",
+    "homeRemedy": "Although early detection and medical intervention are crucial to fully recovering, tuvarka seed oil can be a helpful remedy to combat leprosy.",
+    "pharmaceutical": "The prescription antibiotics (mainly Rifampicin, Dapsone, and Clofazimine) taken in combination is recommended."
+  },
+  {
+    "name": "Syphilis (Bacterial STI)",
+    "symptoms": ["Painless sores (chancre)", "Rash", "Fever", "Painless ulcers", "Vaginal discharge", "Wart-like growth on genitals"],
+    "cause": "Syphilis is caused by the spread of Treponema pallidum bacteria through vaginal, anal, or oral sex when one has direct contact with a syphilitic sore (chancre).",
+    "treatment": "The most common form of treatment for syphilis is Benzathine penicillin G, however, for those with a penicillin allergy, they may have to take Doxycycline (prescribed by a healthcare professional).",
+    "prevention": "By practicing safe sexual practices and the use of condoms, chances of syphilis can be mitigated. Communication is also key as communicating with your sexual partner can prevent the spread of syphilis.",
+    "homeRemedy": "Using condoms is the best way to prevent syphilis.",
+    "pharmaceutical": "Prescription of Benzathine penicillin G is recommended (Doxycycline for those with a penicillin allergy)."
+  },
+  {
+    "name": "Giardiasis",
+    "symptoms": ["Diarrhea", "Abdominal cramps", "Nausea"],
+    "cause": "Giardia lamblia parasite",
+    "treatment": "Metronidazole or Tinidazole (prescribed by a healthcare professional)",
+    "prevention": "Good hygiene and safe water practices",
+    "homeRemedy": "Avoid contaminated water and maintain good personal hygiene",
+    "pharmaceutical": "Prescription antiparasitic medications (e.g., Metronidazole)"
+  },
+  {
+    "name": "Intestinal Worm Infections (Various Types)",
+    "symptoms": ["Abdominal pain", "Diarrhea", "Weight loss"],
+    "cause": "Various types of parasitic worms",
+    "treatment": "Anthelmintic medications (e.g., Albendazole, Mebendazole)",
+    "prevention": "Good hygiene and avoiding undercooked or raw meat",
+    "homeRemedy": "Avoid contaminated food and water and maintain good personal hygiene",
+    "pharmaceutical": "Prescription anthelmintic medications"
+  },
+  {
+    "name": "Hyperthyroidism (Graves' Disease)",
+    "symptoms": ["Weight loss", "Rapid heartbeat", "Irritability"],
+    "cause": "Overactive thyroid gland",
+    "treatment": "Antithyroid medications (e.g., Methimazole, Propylthiouracil), radioactive iodine, surgery",
+    "homeRemedy": "Medically managed condition; no specific home remedy",
+    "pharmaceutical": "Prescription antithyroid medications"
+  },
+  {
+    "name": "HIV/AIDS",
+    "symptoms": ["Fever", "Fatigue", "Weight loss", "Pain when swallowing", "Loss of appetite", "Gastrointestinal problems", "Sweating"],
+    "cause": "HIV/AIDS is caused by the spread of the disease through vaginal or anal sex. The person with HIV is infected with the Human Immunodeficiency Virus (HIV).",
+    "treatment": "While no cure exists for HIV, treatment using medication can prevent AIDS. The primary medication used for HIV is HIV antiviral.",
+    "prevention": "Prevention for HIV can include safe sexual practices, needle exchange programs, pre-exposure prophylaxis (PrEP), use of condoms, and limiting the number of sexual partners.",
+    "homeRemedy": "There is no home remedy for HIV/AIDS. It is best to consult with a medical professional on what to do.",
+    "pharmaceutical": "HIV Antiviral medications (combination therapies) prescribed by a healthcare professional is an effective pharmaceutical treatment."
+  },
+  {
+    "name": "Lupus",
+    "symptoms": ["Pain in muscles", "Pain throughout the whole body", "Extreme fatigue", "Joint pain", "Rash on face"],
+    "cause": "While the exact cause of Lupus remains unknown, ongoing research suggests a combination of genetic, environmental, and hormonal factors may contribute to its development. Additionally, some studies indicate a potential link between Lupus and certain viral infections, although further investigation is needed.",
+    "treatment": "In addition to pharmaceutical treatments, lifestyle modifications such as regular exercise, stress management techniques, and a balanced diet rich in antioxidants may complement medical interventions in managing Lupus symptoms. Furthermore, immunosuppressive therapies like Methotrexate and Mycophenolate mofetil are also commonly prescribed to control the autoimmune response associated with Lupus.",
+    "prevention": "While it's not possible to prevent Lupus entirely, individuals can reduce their risk of flare-ups and complications by maintaining a healthy lifestyle, including regular exercise, stress reduction techniques, and adequate rest. Additionally, avoiding smoking and excessive alcohol consumption may help support overall immune system function.",
+    "homeRemedy": "In addition to dietary adjustments, incorporating relaxation techniques such as yoga, meditation, or tai chi may help alleviate stress and promote overall well-being for individuals with Lupus. Furthermore, ensuring adequate hydration and getting plenty of rest can also aid in managing symptoms.",
+    "pharmaceutical": "Aside from Cyclosporine and Prednisolone, other pharmaceutical options for Lupus treatment may include Hydroxychloroquine, Belimumab, and Rituximab. It's essential for patients to work closely with their healthcare providers to determine the most suitable medication regimen based on individual symptoms and medical history."
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "symptoms": ["Pain mostly in the joints", "Fatigue", "Stiffness"],
+    "cause": "The cause of Rheumatoid arthritis is the immune system attacking the joints. What triggers this specific response is unknown, so it is best to take as many precautions as possible when it comes to protecting the immune system. Try consulting with a medical professional on possible factors that could increase risks of worsening Rheumatoid arthritis.",
+    "treatment": "Naproxen, Ketoprofen, Azathioprine, anti-inflammatory medication, and steroids are all used to treat Rheumatoid arthritis. These medicines can be prescribed by a medical professional. There is also arthrocentesis, the medical procedure of collecting fluid from the joints. Physical therapy is also an alternative to traditional medicine. If needed, surgery for the joints can be done. This includes repairing or completely replacing the joint.",
+    "prevention": "Daily exercise, healthy eating, and avoiding smoking are all ways to prevent Rheumatoid arthritis.",
+    "homeRemedy": "For simple home remedies, it is the same for preventing Rheumatoid arthritis. This includes consistent exercise, especially those which emphasize the work of joints, healthy foods, and avoiding smoking.",
+    "pharmaceutical": "There are multiple prescriptions available such as Naproxen and Ketoprofen."
+  },
+  {
+    "name": "Crohn’s Disease",
+    "symptoms": ["Pain in abdomen and joints", "Gastrointestinal problems such as bloating and diarrhea", "Fatigue", "Fever", "Anal fissures"],
+    "cause": "The exact cause of Crohn’s Disease is unknown, however, it is known that this disease occurs when the body’s immune system attacks the healthy body tissue.",
+    "treatment": "There are multiple treatments for Crohn’s Disease in different forms. Sulfasalazine is a great anti-inflammatory drug. There are also anti-inflammatory drugs without steroids. Steroids like Pulmicort, Prednisone, and Hydrocortisone are also effective in treating this disease. Antibiotics and Vitamin D can be great alternatives. If medication is not desired, there are multiple medical procedures such as enema which involves injecting a fluid into the anus. Surgical removal of part of the intestine can be done as well.",
+    "prevention": "There is no scientifically known method to prevent Crohn’s Disease, however, common precautions such as avoiding eating sugary, fatty, and spicy foods, avoiding caffeine, and consistent exercise can be taken to prevent Crohn’s Disease flare-ups.",
+    "homeRemedy": "If someone has Crohn’s Disease, it is best to eat foods with lots of fiber.",
+    "pharmaceutical": "There are multiple prescriptions available such as Pulmicort and Sulfasalazine."
+  },
+  {
+    "name": "Ulcerative Colitis",
+    "symptoms": ["Pain in abdomen, joints, and rectum", "Gastrointestinal problems such as diarrhea, constipation, blood in stool"],
+    "cause": "The exact cause of Crohn’s Disease is unknown, however, it is known that this disease occurs when the body’s immune system attacks the healthy body tissue of the colon.",
+    "treatment": "There are multiple treatments for Ulcerative Colitis in different forms. Sulfasalazine is a great anti-inflammatory drug. Antibiotics like Aminosalicylic acid can be effective in treating ulcerative colitis. Immune-Responsive drugs for ulcerative colitis include azathioprine, mercaptopurine, adalimumab, and remicade. To relieve pain, analgesic drugs can be prescribed such as acetaminophen. Steroids, like prednisone, pulmicort, prednisolone, and hydrocortisone, are commonly used to treat this disease. If medication is not desired, there are multiple medical procedures such as enema which involves injecting a fluid into the anus. Surgical interventions, depending on the case, can be performed. These include colostomy, ileostomy, colectomy, and/or proctocolectomy.",
+    "prevention": "There is no scientifically known method to prevent ulcerative colitis, however, precautions such as avoiding drinking carbonated drinks, avoiding eating high fiber foods like popcorn and nuts, and drinking lots of fluids can be taken to prevent ulcerative colitis flare-ups.",
+    "homeRemedy": "If someone has Crohn’s Disease, it is best to take iron supplements.",
+    "pharmaceutical": "There are multiple prescriptions available in different forms such as aminosalicylic acid, azathioprine, and remicade."
+  }
+]
+
+
+
+
+
+
+

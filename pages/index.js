@@ -4,6 +4,7 @@ import data from '../public/data.json';
 import Head from 'next/head';
 import styles from './index.module.css';
 import Layout from '../components/Layout';
+import SearchComponent from '../components/SearchComponent';
 
 const Home = () => {
   const [results, setResults] = useState([]);
@@ -50,12 +51,19 @@ const Home = () => {
       )
     );
   };
+  
+  return (
+    <div>
+      <h1 style={{textAlign:'center'}}>Disease Search</h1>
+      <SearchComponent />
+    </div>
+  );
 
   return (
     <div style={{textAlign: 'center'}}>
       <Head>
         <title>MedX Plus</title>
-      </Head>
+      </Head> 
       <h1>Search MedX Database</h1>
       <SearchBar onSearch={handleSearch} />
       <div>
