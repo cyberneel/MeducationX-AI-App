@@ -12,19 +12,6 @@
     "path": "/chat"
   },
   {
-    "label": "Services",
-    "children": [
-      {
-        "label": "Web Development",
-        "path": "/services/web-development"
-      },
-      {
-        "label": "App Development",
-        "path": "/services/app-development"
-      }
-    ]
-  },
-  {
     "label": "Contact",
     "path": "/contact"
   }

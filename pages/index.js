@@ -5,6 +5,7 @@ import Head from 'next/head';
 import styles from './index.module.css';
 import Layout from '../components/Layout';
 import SearchComponent from '../components/SearchComponent';
+import BigBlock from '../components/BigBlock';
 
 const Home = () => {
   const [results, setResults] = useState([]);
@@ -54,7 +55,7 @@ const Home = () => {
   
   return (
     <div>
-      <h1 style={{textAlign:'center'}}>Disease Search</h1>
+      <BigBlock />
       <SearchComponent />
     </div>
   );
