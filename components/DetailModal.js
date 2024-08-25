@@ -9,7 +9,7 @@ const DetailModal = ({ isOpen, onClose, disease }) => {
         <button onClick={onClose} style={styles.closeButton}>X</button>
         <h2>{disease.name}</h2>
         <p><strong>Symptoms:</strong> {disease.symptoms.join(', ')}</p>
-        <p>HELLO!</p>
+        <p>Learn More!</p>
       </div>
     </div>
   );

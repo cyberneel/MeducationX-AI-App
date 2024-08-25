@@ -21,7 +21,7 @@ const BigBlock = ({headText = '', description = '', linkText = 'About', link = '
                 {description}
                 <a href="https://instagram.com/meducationx" target="_blank" rel="noopener noreferrer">@MeducationX</a>
               </p>
-              <a href={link} className="btn btn-danger">{linkText}</a>
+              <a href={link} className="btn btn-primary">{linkText}</a>
             </div>
           </div>
         </div>

@@ -56,7 +56,10 @@ const Home = () => {
   return (
     <div>
       <BigBlock />
+      <br></br>
+      <h1 className='text-center' >Search MedX Database:</h1>
       <SearchComponent />
+      <br></br>
     </div>
   );
 

@@ -5,12 +5,14 @@
     "start": "next dev -p 3450"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.17.1",
+    "@huggingface/inference": "^2.8.0",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
     "fuse.js": "^7.0.0",
     "next": "9.3.5",
     "node-fetch": "^2.0.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.3"
+    "react-dom": "16.13.1"
   }
 }

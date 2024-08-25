@@ -19,7 +19,7 @@ export default async (req, res) => {
             {
               "model": "Meta-Llama-3-8B-Instruct",
               "messages": [
-                {"role": "user", "content": input + " (limit responses to 15 sentences or less. and use information from this json if relevent to help me with this problem.) Here is the JSON: \n " + diseases},
+                {"role": "user", "content": input + " (limit responses to 15 sentences or less. and use information from this json if relevent to help me with this problem.) Here is the JSON: \n " + JSON.stringify(diseases)},
                 {"role": "assistant", "content": "Hi!"}
               ],
               "repetition_penalty": 1.1,
