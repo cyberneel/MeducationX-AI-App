@@ -25,7 +25,7 @@ const Navbar = () => {
       }
       return (
         <li key={index}>
-          <Link href={item.path}>
+          <Link href={item.path} legacyBehavior>
             <a>{item.label}</a>
           </Link>
         </li>
@@ -36,7 +36,7 @@ const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <div className={styles.logo}>
-        <Link href="/">
+        <Link href="/" legacyBehavior>
           <a>MeducationX</a>
         </Link>
       </div>
