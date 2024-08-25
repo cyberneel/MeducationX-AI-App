@@ -24,13 +24,29 @@ export default function Home() {
       }
 
       const data = await res.json();
-      setResponse(data.response);
+      
+      // Parse and format the response text
+      const formattedResponse = formatResponse(data.response);
+      setResponse(formattedResponse);
     } catch (error) {
       console.error(error);
       setResponse('Error: Unable to get a response');
     } finally {
       setLoading(false); // Hide loading spinner
     }
+  };
+
+  const formatResponse = (text) => {
+    // Convert **text** to <strong>text</strong>
+    let formattedText = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+
+    // Convert lines starting with * or - to list items
+    formattedText = formattedText.replace(/^\s*[-*]\s+(.*)$/gm, '<li>$1</li>');
+
+    // Wrap consecutive <li> elements with <ul>
+    formattedText = formattedText.replace(/(<li>.*<\/li>)/g, '<ul>$1</ul>');
+
+    return formattedText;
   };
 
   return (
@@ -50,9 +66,10 @@ export default function Home() {
       {loading && <LoadingSpinnerLLM />}
       <div className={styles.responseContainer}>
         <h2 className={styles.responseHeading}>Response:</h2>
-        <div className={styles.responseContent}>
-          <p>{response}</p>
-        </div>
+        <div 
+          className={styles.responseContent}
+          dangerouslySetInnerHTML={{ __html: response }} 
+        />
       </div>
     </div>
   );
